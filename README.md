@@ -1,13 +1,17 @@
 # House-Prices Competition-Advanced-Regression-Techniques
 
-## Deskripsi
+### In this repository I try to make predictions about house prices by applying machine learning methods, I got the dataset from the <a href="https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview" target="_blank">Kaggle</a> site.
+### about the illustration of the task in the real world and an explanation of the dataset you can read as follows:
 
-Minta pembeli rumah untuk mendeskripsikan rumah impian mereka, dan mereka mungkin tidak akan mulai dengan ketinggian langit-langit ruang bawah tanah atau dekat dengan rel kereta timur-barat. Namun kumpulan data kompetisi taman bermain ini membuktikan bahwa jauh lebih memengaruhi negosiasi harga daripada jumlah kamar tidur atau pagar kayu putih.
-Dengan 79 variabel penjelas yang menjelaskan (hampir) setiap aspek rumah hunian di Ames, Iowa, kompetisi ini menantang Anda untuk memprediksi harga akhir setiap rumah. 
+## Description
+
+Ask a home buyer to describe their dream house, and they probably won't begin with the height of the basement ceiling or the proximity to an east-west railroad. But this playground competition's dataset proves that much more influences price negotiations than the number of bedrooms or a white-picket fence.
+With 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa, this competition challenges you to predict the final price of each home. 
 
 ![myimage-alt-tag](https://storage.googleapis.com/kaggle-competitions/kaggle/5407/media/housesbanner.png)
 
 ## Data fields
+
 Here's a brief version of what you'll find in the data description file.
 
 <ul>
