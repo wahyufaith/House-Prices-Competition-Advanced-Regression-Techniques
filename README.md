@@ -1,7 +1,6 @@
 # House-Prices Competition-Advanced-Regression-Techniques
 
-### In this repository I try to make predictions about house prices by applying machine learning methods, I got the dataset from the <a href="https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview" target="_blank">Kaggle</a> site.
-### about the illustration of the task in the real world and an explanation of the dataset you can read as follows:
+### In this repository I try to make predictions about house prices by applying machine learning methods, I got the dataset from the <a href="https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview" target="_blank">Kaggle</a> site. About the illustration of the task in the real world and an explanation of the dataset you can read as follows:
 
 ## Description
 
